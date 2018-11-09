@@ -1,3 +1,6 @@
 # Mineur-Stat-Can
 
-Simple Python script to mine StatCan ADA-level information.
+Two script to :
+
+1) mine StatCan ADA-level information.
+2) convert the resulting csv file to a proper geojson
